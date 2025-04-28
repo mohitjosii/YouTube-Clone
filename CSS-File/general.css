@@ -1,0 +1,22 @@
+body{
+  margin: 0;
+  height: 1000px;
+  background-color: rgb(250, 246, 246);
+  padding-top: 60px;
+  padding-left: 180px;
+}
+
+.credit{
+  display: flex;
+  justify-content: center;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: gray;
+  position: absolute;
+  top: 1000px;
+  right: 500px;
+}
+.credit-para{
+  font-family: Arial;
+  font-size: 14px;
+}
